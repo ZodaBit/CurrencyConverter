@@ -1,0 +1,5 @@
+c:\users\adonaye\documents\visual studio 2012\Projects\HomeworkRealeyes\HomeworkRealeyes\bin\HomeworkRealeyes.dll
+c:\users\adonaye\documents\visual studio 2012\Projects\HomeworkRealeyes\HomeworkRealeyes\bin\HomeworkRealeyes.pdb
+c:\users\adonaye\documents\visual studio 2012\Projects\HomeworkRealeyes\HomeworkRealeyes\obj\Debug\HomeworkRealeyes.csprojResolveAssemblyReference.cache
+c:\users\adonaye\documents\visual studio 2012\Projects\HomeworkRealeyes\HomeworkRealeyes\obj\Debug\HomeworkRealeyes.dll
+c:\users\adonaye\documents\visual studio 2012\Projects\HomeworkRealeyes\HomeworkRealeyes\obj\Debug\HomeworkRealeyes.pdb
